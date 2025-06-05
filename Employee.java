@@ -11,7 +11,6 @@ public class Employee {
     }
     public void dispay() {
         System.out.println("Employee Name: " + name);
-        System.out.println("Employee Name: " + name);
         System.out.println("Employee ID: " + id);
         System.out.println("Salary: " + salary);
         System.out.println("Department: " + department);
